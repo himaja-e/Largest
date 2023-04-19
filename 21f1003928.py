@@ -14,4 +14,4 @@ elif(c>a and c>b):
 else:
   l=a
 
-print("Largest number is", l)
+st.write("Largest number is", l)
